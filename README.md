@@ -1,5 +1,3 @@
 # art-site
----
-permalink: /index.html
----
+[permalink](/index.html)
 website repository

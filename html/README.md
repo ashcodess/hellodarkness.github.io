@@ -1,3 +1,3 @@
 # art-site
-[Home Page](art-site.github.io/index.html)
+[Home Page](art-site.github.io/html/index.html)
 website repository

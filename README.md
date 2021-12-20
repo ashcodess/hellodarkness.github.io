@@ -1,3 +1,3 @@
 # art-site
-[permalink](/index.html)
+[permalink](art-site.github.io/index.html)
 website repository

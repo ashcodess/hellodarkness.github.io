@@ -1,3 +1,3 @@
 # art-site
-[Home Page](/ash/html/index.html)
+[Home Page](../index.html)
 website repository
